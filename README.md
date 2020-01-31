@@ -7,5 +7,5 @@
 
 - `yarn install -y`
 
--`yarn dev`
+- `yarn dev`
 
